@@ -1,6 +1,6 @@
 # Algorithm_Study
 
-<!-- :heavy_check_mark: 체크 표시 / :X: 엑스 표시-->
+<!-- :heavy_check_mark: 체크 표시 / :x: 엑스 표시-->
 
 ---
 
@@ -11,8 +11,8 @@
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|일곱 난쟁이|2309|[링크](https://www.acmicpc.net/problem/2309)|:X:|:X:|:X:|
-|블랙잭|2798|[링크](https://www.acmicpc.net/problem/2798)|:X:|:X:|:X:|
-|덩치|7568|[링크](https://www.acmicpc.net/problem/7568)|:X:|:X:|:X:|
-|영화감독 숌|1436|[링크](https://www.acmicpc.net/problem/1436)|:X:|:X:|:X:|
-|한수|1065|[링크](https://www.acmicpc.net/problem/1065)|:X:|:X:|:X:|
+|일곱 난쟁이|2309|[링크](https://www.acmicpc.net/problem/2309)|:x:|:x:|:x:|
+|블랙잭|2798|[링크](https://www.acmicpc.net/problem/2798)|:x:|:x:|:x:|
+|덩치|7568|[링크](https://www.acmicpc.net/problem/7568)|:x:|:x:|:x:|
+|영화감독 숌|1436|[링크](https://www.acmicpc.net/problem/1436)|:x:|:x:|:x:|
+|한수|1065|[링크](https://www.acmicpc.net/problem/1065)|:x:|:x:|:x:|
