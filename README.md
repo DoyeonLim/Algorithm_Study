@@ -1,7 +1,6 @@
 # Algorithm_Study
 
 <!-- :heavy_check_mark: 체크 표시 -->
-<!-- 
 
 ---
 
