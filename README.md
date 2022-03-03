@@ -2,7 +2,7 @@
 
 <!-- :heavy_check_mark: 체크 표시 / :x: 엑스 표시-->
 
-동훈 <img src="https://img.shields.io/badge/C++-black?style=flat&logo=C++&logoColor=00599C" />
+동훈 <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white" />
 
 ---
 
