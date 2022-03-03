@@ -3,6 +3,8 @@
 <!-- :heavy_check_mark: 체크 표시 / :x: 엑스 표시-->
 
 동훈 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
+도연 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+윤호 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 
 ---
 
