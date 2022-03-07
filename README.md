@@ -6,6 +6,8 @@
 도연 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 윤호 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />**
 
+- 매주 목요일 대면 스터디 이후 다음 주차 목표 설정
+
 ---
 
 ## 1주차 알고리즘 : Brute Force ( 완전 탐색 )
