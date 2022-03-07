@@ -5,8 +5,14 @@
 **동훈 
 Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldh019)](https://solved.ac/ldh019)
-도연 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-윤호 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />**
+
+**도연 
+Language <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=catalina6537)](https://solved.ac/catalina6537)
+
+**윤호 
+Language <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk16400)](https://solved.ac/jk16400)
 
 - 매주 목요일 대면 스터디 이후 다음 주차 목표 설정
 
