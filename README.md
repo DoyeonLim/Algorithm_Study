@@ -29,7 +29,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
 |일곱 난쟁이|2309|[링크](https://www.acmicpc.net/problem/2309)|:o:|:x:|:o:|
-|블랙잭|2798|[링크](https://www.acmicpc.net/problem/2798)|:x:|:x:|:o:|
-|덩치|7568|[링크](https://www.acmicpc.net/problem/7568)|:x:|:x:|:o:|
+|블랙잭|2798|[링크](https://www.acmicpc.net/problem/2798)|:o:|:x:|:o:|
+|덩치|7568|[링크](https://www.acmicpc.net/problem/7568)|:o:|:x:|:o:|
 |영화감독 숌|1436|[링크](https://www.acmicpc.net/problem/1436)|:x:|:x:|:o:|
 |한수|1065|[링크](https://www.acmicpc.net/problem/1065)|:x:|:x:|:o:|
