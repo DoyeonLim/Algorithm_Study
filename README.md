@@ -33,3 +33,18 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |덩치|7568|[링크](https://www.acmicpc.net/problem/7568)|:o:|:o:|:o:|
 |영화감독 숌|1436|[링크](https://www.acmicpc.net/problem/1436)|:o:|:o:|:o:|
 |한수|1065|[링크](https://www.acmicpc.net/problem/1065)|:o:|:o:|:o:|
+
+---
+
+## 2주차 알고리즘 : Backtracking ( 백트래킹 )
+
+- 해를 찾는 도중 해가 아니어서 막히면, 되돌아가서 다시 해를 찾아가는 기법
+- 순차적 탐색을 가장 많이 사용하나, DFS ( 깊이 우선 탐색 ) 방식도 사용함
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|N과 M(2)|15650|[링크](https://www.acmicpc.net/problem/15650)|:x:|:x:|:x:|
+|N과 M(3)|15651|[링크](https://www.acmicpc.net/problem/15651)|:x:|:x:|:x:|
+|부분 수열의 합|1182|[링크](https://www.acmicpc.net/problem/1182)|:x:|:x:|:x:|
+|부등호|2529|[링크](https://www.acmicpc.net/problem/2529)|:x:|:x:|:x:|
+|모든 순열|10974|[링크](https://www.acmicpc.net/problem/10974)|:x:|:x:|:x:|
