@@ -43,8 +43,8 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|N과 M(2)|15650|[링크](https://www.acmicpc.net/problem/15650)|:x:|:x:|:x:|
-|N과 M(3)|15651|[링크](https://www.acmicpc.net/problem/15651)|:x:|:x:|:x:|
-|부분 수열의 합|1182|[링크](https://www.acmicpc.net/problem/1182)|:x:|:x:|:x:|
-|부등호|2529|[링크](https://www.acmicpc.net/problem/2529)|:x:|:x:|:x:|
-|모든 순열|10974|[링크](https://www.acmicpc.net/problem/10974)|:x:|:x:|:x:|
+|N과 M(2)|15650|[링크](https://www.acmicpc.net/problem/15650)|:o:|:x:|:x:|
+|N과 M(3)|15651|[링크](https://www.acmicpc.net/problem/15651)|:o:|:x:|:x:|
+|부분 수열의 합|1182|[링크](https://www.acmicpc.net/problem/1182)|:o:|:x:|:x:|
+|부등호|2529|[링크](https://www.acmicpc.net/problem/2529)|:o:|:x:|:x:|
+|모든 순열|10974|[링크](https://www.acmicpc.net/problem/10974)|:o:|:x:|:x:|
