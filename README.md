@@ -48,3 +48,19 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |부분 수열의 합|1182|[링크](https://www.acmicpc.net/problem/1182)|:o:|:o:|:o:|
 |부등호|2529|[링크](https://www.acmicpc.net/problem/2529)|:o:|:x:|:o:|
 |모든 순열|10974|[링크](https://www.acmicpc.net/problem/10974)|:o:|:o:|:o:|
+
+---
+
+## 3주차 알고리즘 : Sorting ( 정렬 )
+
+- 원소들을 번호순이나 사전 순서와 같이 일정한 순서대로 열거하는 알고리즘
+- 가장 자주 사용하는 방법으로 삽입(Insertion), 선택(Selection), 인접(Bubble), 퀵(Quick) 정렬이 있음
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|수 정렬하기 - 삽입|2750|[링크](https://www.acmicpc.net/problem/2750)|:x:|:x:|:x:|
+|수 정렬하기 - 선택|2750|[링크](https://www.acmicpc.net/problem/2750)|:x:|:x:|:x:|
+|수 정렬하기 - 인접|2750|[링크](https://www.acmicpc.net/problem/2750)|:x:|:x:|:x:|
+|수 정렬하기 - 빠른|2750|[링크](https://www.acmicpc.net/problem/2750)|:x:|:x:|:x:|
+|단어 정렬|1181|[링크](https://www.acmicpc.net/problem/1181)|:x:|:x:|:x:|
+
