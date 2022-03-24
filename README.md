@@ -62,5 +62,5 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |수 정렬하기 - 선택|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:o:|:o:|
 |수 정렬하기 - 인접|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:o:|:o:|
 |수 정렬하기 - 빠른|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:o:|:o:|
-|단어 정렬|1181|[링크](https://www.acmicpc.net/problem/1181)|:o:|:x:|:o:|
+|단어 정렬|1181|[링크](https://www.acmicpc.net/problem/1181)|:o:|:o:|:o:|
 
