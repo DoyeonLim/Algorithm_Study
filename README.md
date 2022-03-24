@@ -46,7 +46,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |N과 M(2)|15650|[링크](https://www.acmicpc.net/problem/15650)|:o:|:o:|:o:|
 |N과 M(3)|15651|[링크](https://www.acmicpc.net/problem/15651)|:o:|:o:|:o:|
 |부분 수열의 합|1182|[링크](https://www.acmicpc.net/problem/1182)|:o:|:o:|:o:|
-|부등호|2529|[링크](https://www.acmicpc.net/problem/2529)|:o:|:x:|:o:|
+|부등호|2529|[링크](https://www.acmicpc.net/problem/2529)|:o:|:o:|:o:|
 |모든 순열|10974|[링크](https://www.acmicpc.net/problem/10974)|:o:|:o:|:o:|
 
 ---
