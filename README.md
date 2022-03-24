@@ -64,3 +64,14 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |수 정렬하기 - 빠른|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:o:|:o:|
 |단어 정렬|1181|[링크](https://www.acmicpc.net/problem/1181)|:o:|:o:|:o:|
 
+---
+## 4주차 알고리즘 : Divide and Conquer ( 분할 정복 )
+
+- 문제를 나눌 수 없을 때까지 나누어서 각각을 풀면서 다시 합병하여 문제를 푸는 알고리즘
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|색종이 만들기|2630|[링크](https://www.acmicpc.net/problem/2630)|:x:|:x:|:x:|
+|별 찍기 - 10|2447|[링크](https://www.acmicpc.net/problem/2447)|:x:|:x:|:x:|
+|행렬 제곱|10830|[링크](https://www.acmicpc.net/problem/10830)|:x:|:x:|:x:|
+|Z|1074|[링크](https://www.acmicpc.net/problem/1074)|:x:|:x:|:x:|
