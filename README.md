@@ -59,7 +59,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
 |수 정렬하기 - 삽입|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:x:|:o:|
-|수 정렬하기 - 선택|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:x:|:o:|
+|수 정렬하기 - 선택|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:o:|:o:|
 |수 정렬하기 - 인접|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:x:|:o:|
 |수 정렬하기 - 빠른|2750|[링크](https://www.acmicpc.net/problem/2750)|:o:|:x:|:o:|
 |단어 정렬|1181|[링크](https://www.acmicpc.net/problem/1181)|:o:|:x:|:o:|
