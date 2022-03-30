@@ -73,5 +73,5 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |--|--|--|--|--|--|
 |색종이 만들기|2630|[링크](https://www.acmicpc.net/problem/2630)|:o:|:o:|:o:|
 |별 찍기 - 10|2447|[링크](https://www.acmicpc.net/problem/2447)|:o:|:o:|:o:|
-|행렬 제곱|10830|[링크](https://www.acmicpc.net/problem/10830)|:o:|:x:|:o:|
+|행렬 제곱|10830|[링크](https://www.acmicpc.net/problem/10830)|:o:|:o:|:o:|
 |Z|1074|[링크](https://www.acmicpc.net/problem/1074)|:o:|:o:|:o:|
