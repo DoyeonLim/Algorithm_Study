@@ -75,3 +75,14 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |별 찍기 - 10|2447|[링크](https://www.acmicpc.net/problem/2447)|:o:|:o:|:o:|
 |행렬 제곱|10830|[링크](https://www.acmicpc.net/problem/10830)|:o:|:o:|:o:|
 |Z|1074|[링크](https://www.acmicpc.net/problem/1074)|:o:|:o:|:o:|
+
+## 5주차 알고리즘 : Binary Search ( 이진 탐색 )
+
+- 문제를 나눌 수 없을 때까지 나누어서 각각을 풀면서 다시 합병하여 문제를 푸는 알고리즘
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|수 찾기|1920|[링크](https://www.acmicpc.net/problem/1920)|:x:|:x:|:x:|
+|숫자 카드2|10816|[링크](https://www.acmicpc.net/problem/10816)|:x:|:x:|:x:|
+|랜선 자르기|1654|[링크](https://www.acmicpc.net/problem/1654)|:x:|:x:|:x:|
+|나무 자르기|2805|[링크](https://www.acmicpc.net/problem/2805)|:x:|:x:|:x:|
