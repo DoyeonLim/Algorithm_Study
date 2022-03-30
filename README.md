@@ -71,7 +71,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|색종이 만들기|2630|[링크](https://www.acmicpc.net/problem/2630)|:x:|:x:|:x:|
-|별 찍기 - 10|2447|[링크](https://www.acmicpc.net/problem/2447)|:x:|:x:|:x:|
-|행렬 제곱|10830|[링크](https://www.acmicpc.net/problem/10830)|:o:|:x:|:x:|
-|Z|1074|[링크](https://www.acmicpc.net/problem/1074)|:o:|:x:|:x:|
+|색종이 만들기|2630|[링크](https://www.acmicpc.net/problem/2630)|:o:|:x:|:o:|
+|별 찍기 - 10|2447|[링크](https://www.acmicpc.net/problem/2447)|:o:|:x:|:o:|
+|행렬 제곱|10830|[링크](https://www.acmicpc.net/problem/10830)|:o:|:x:|:o:|
+|Z|1074|[링크](https://www.acmicpc.net/problem/1074)|:o:|:x:|:o:|
