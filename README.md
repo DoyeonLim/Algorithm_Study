@@ -21,7 +21,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 ---
 
-## 1주차 알고리즘 : Brute Force ( 완전 탐색 )
+## 1주차 알고리즘 : Brute Force ( 완전 탐색 ) ( 3/3 ~ 3/10 )
 
 - 가능한 모든 경우의 수를 모두 탐색하면서 요구조건에 충족되는 결과를 찾는 방법
 - 순차적 탐색을 가장 많이 사용하나, BFS ( 너비 우선 탐색 ) 방식도 사용함
@@ -36,7 +36,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 ---
 
-## 2주차 알고리즘 : Backtracking ( 백트래킹 )
+## 2주차 알고리즘 : Backtracking ( 백트래킹 ) ( 3/10 ~ 3/17 )
 
 - 해를 찾는 도중 해가 아니어서 막히면, 되돌아가서 다시 해를 찾아가는 기법
 - 순차적 탐색을 가장 많이 사용하나, DFS ( 깊이 우선 탐색 ) 방식도 사용함
@@ -51,7 +51,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 ---
 
-## 3주차 알고리즘 : Sorting ( 정렬 )
+## 3주차 알고리즘 : Sorting ( 정렬 ) ( 3/17 ~ 3/24 )
 
 - 원소들을 번호순이나 사전 순서와 같이 일정한 순서대로 열거하는 알고리즘
 - 가장 자주 사용하는 방법으로 삽입(Insertion), 선택(Selection), 인접(Bubble), 퀵(Quick) 정렬이 있음
@@ -65,7 +65,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |단어 정렬|1181|[링크](https://www.acmicpc.net/problem/1181)|:o:|:o:|:o:|
 
 ---
-## 4주차 알고리즘 : Divide and Conquer ( 분할 정복 )
+## 4주차 알고리즘 : Divide and Conquer ( 분할 정복 ) ( 3/24 ~ 3/31 )
 
 - 문제를 나눌 수 없을 때까지 나누어서 각각을 풀면서 다시 합병하여 문제를 푸는 알고리즘
 
@@ -77,7 +77,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |Z|1074|[링크](https://www.acmicpc.net/problem/1074)|:o:|:o:|:o:|
 
 ---
-## 5주차 알고리즘 : Binary Search ( 이진 탐색 )
+## 5주차 알고리즘 : Binary Search ( 이진 탐색 ) ( 3/31 ~ 4/7 )
 
 - 검색 범위를 줄여 나가면서 원하는 데이터를 검색하는 알고리즘
 
@@ -89,7 +89,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |나무 자르기|2805|[링크](https://www.acmicpc.net/problem/2805)|:o:|:x:|:o:|
 
 ---
-## 6주차 알고리즘 : Stack, Queue ( 스택, 큐 )
+## 6주차 알고리즘 : Stack, Queue ( 스택, 큐 ) ( 4/7 ~ 5/12 , 중간고사로 인한 연기 )
 
 - Stack : 후입선출(LIFO)의 특성을 가지는 자료구조
 - Queue : 선입선출(FIFO)의 특성을 가지는 자료구조
