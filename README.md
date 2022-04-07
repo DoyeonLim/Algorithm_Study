@@ -83,7 +83,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|수 찾기|1920|[링크](https://www.acmicpc.net/problem/1920)|:o:|:x:|:o:|
-|숫자 카드2|10816|[링크](https://www.acmicpc.net/problem/10816)|:o:|:x:|:o:|
-|랜선 자르기|1654|[링크](https://www.acmicpc.net/problem/1654)|:o:|:x:|:o:|
+|수 찾기|1920|[링크](https://www.acmicpc.net/problem/1920)|:o:|:o:|:o:|
+|숫자 카드2|10816|[링크](https://www.acmicpc.net/problem/10816)|:o:|:o:|:o:|
+|랜선 자르기|1654|[링크](https://www.acmicpc.net/problem/1654)|:o:|:o:|:o:|
 |나무 자르기|2805|[링크](https://www.acmicpc.net/problem/2805)|:o:|:x:|:o:|
