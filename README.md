@@ -87,3 +87,16 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 |숫자 카드2|10816|[링크](https://www.acmicpc.net/problem/10816)|:o:|:o:|:o:|
 |랜선 자르기|1654|[링크](https://www.acmicpc.net/problem/1654)|:o:|:o:|:o:|
 |나무 자르기|2805|[링크](https://www.acmicpc.net/problem/2805)|:o:|:x:|:o:|
+
+---
+## 6주차 알고리즘 : Stack, Queue ( 스택, 큐 )
+
+- Stack : 후입선출(LIFO)의 특성을 가지는 자료구조
+- Queue : 선입선출(FIFO)의 특성을 가지는 자료구조
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|스택|10828|[링크](https://www.acmicpc.net/problem/10828)|:x:|:x:|:x:|
+|괄호|9012|[링크](https://www.acmicpc.net/problem/9012)|:x:|:x:|:x:|
+|프린터 큐|1966|[링크](https://www.acmicpc.net/problem/1966)|:x:|:x:|:x:|
+|큐 2|18258|[링크](https://www.acmicpc.net/problem/18258)|:x:|:x:|:x:|
