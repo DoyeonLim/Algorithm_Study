@@ -96,7 +96,19 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|스택|10828|[링크](https://www.acmicpc.net/problem/10828)|:x:|:x:|:x:|
-|괄호|9012|[링크](https://www.acmicpc.net/problem/9012)|:x:|:x:|:x:|
-|프린터 큐|1966|[링크](https://www.acmicpc.net/problem/1966)|:x:|:x:|:x:|
-|큐 2|18258|[링크](https://www.acmicpc.net/problem/18258)|:x:|:x:|:x:|
+|스택|10828|[링크](https://www.acmicpc.net/problem/10828)|:o:|:o:|:o:|
+|괄호|9012|[링크](https://www.acmicpc.net/problem/9012)|:o:|:o:|:o:|
+|프린터 큐|1966|[링크](https://www.acmicpc.net/problem/1966)|:o:|:o:|:o:|
+|큐 2|18258|[링크](https://www.acmicpc.net/problem/18258)|:o:|:o:|:o:|
+
+## 7주차 알고리즘 : DFS와 BFS
+
+- Stack : 후입선출(LIFO)의 특성을 가지는 자료구조
+- Queue : 선입선출(FIFO)의 특성을 가지는 자료구조
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|DFS와 BFS|1260|[링크](https://www.acmicpc.net/problem/1260)|:x:|:x:|:x:|
+|단지번호 붙이기|2667|[링크](https://www.acmicpc.net/problem/2667)|:x:|:x:|:x:|
+|토마토|7576|[링크](https://www.acmicpc.net/problem/7576)|:x:|:x:|:x:|
+|바이러스|2606|[링크](https://www.acmicpc.net/problem/2606)|:x:|:x:|:x:|
