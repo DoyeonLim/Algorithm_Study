@@ -14,7 +14,7 @@ for i in range(n):
         if not q:
             print(-1)
         else:
-            print(q.popleft())
+            print(q.popleft()) # 제일 앞 원소를 꺼낸 후 제거
 
     elif s[0] == 'size':
         print(len(q))
