@@ -104,7 +104,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 ## 7주차 알고리즘 : DFS, BFS ( 깊이 우선 탐색, 너비 우선 탐색 ) ( 5/11 ~ 5/18 )
 
 - DFS(깊이 우선 탐색, Depth First Search) : 깊이를 우선적으로 고려하여, 한 정점에서 시작해서 다음 경로로 넘어가기 전에 해당 경로를 완벽하게 탐색하는 방법
-- BFS(너비 우선 탐색, Breadth First Search) : 너비를 우선적으로 고려하여, 한 정점에서 연결되어 있는 모든 정점을 부분적으로 
+- BFS(너비 우선 탐색, Breadth First Search) : 너비를 우선적으로 고려하여, 한 정점에서 연결되어 있는 모든 정점을 부분적으로 탐색하는 방법
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
