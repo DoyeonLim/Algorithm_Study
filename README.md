@@ -133,7 +133,6 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-
 |최단경로|1753|[링크](https://www.acmicpc.net/problem/1753)|:x:|:x:|:x:|
 |최소비용 구하기|1916|[링크](https://www.acmicpc.net/problem/1916)|:x:|:x:|:x:|
 |알고스팟|1261|[링크](https://www.acmicpc.net/problem/1261)|:x:|:x:|:x:|
