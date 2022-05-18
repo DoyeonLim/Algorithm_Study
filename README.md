@@ -109,7 +109,31 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|DFS와 BFS|1260|[링크](https://www.acmicpc.net/problem/1260)|:x:|:x:|:x:|
-|단지번호 붙이기|2667|[링크](https://www.acmicpc.net/problem/2667)|:x:|:x:|:x:|
-|토마토|7576|[링크](https://www.acmicpc.net/problem/7576)|:x:|:x:|:x:|
-|바이러스|2606|[링크](https://www.acmicpc.net/problem/2606)|:x:|:x:|:x:|
+|DFS와 BFS|1260|[링크](https://www.acmicpc.net/problem/1260)|:o:|:o:|:o:|
+|단지번호 붙이기|2667|[링크](https://www.acmicpc.net/problem/2667)|:o:|:o:|:o:|
+|토마토|7576|[링크](https://www.acmicpc.net/problem/7576)|:o:|:o:|:o:|
+|바이러스|2606|[링크](https://www.acmicpc.net/problem/2606)|:o:|:o:|:o:|
+
+---
+## 8주차 알고리즘 : Priority Queue( Heap ) ( 우선 순위 큐, 힙 ) ( 5/18 ~ 5/25 )
+
+- Priority Queue(우선 순위 큐) : 먼저 들어오는 데이터가 아니라, 우선순위가 높은 데이터가 먼저 나가는 형태의 자료구조
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|최대 힙|11279|[링크](https://www.acmicpc.net/problem/11279)|:x:|:x:|:x:|
+|최소 힙|1927|[링크](https://www.acmicpc.net/problem/1927)|:x:|:x:|:x:|
+|가운데를 말해요|1655|[링크](https://www.acmicpc.net/problem/1655)|:x:|:x:|:x:|
+|쇼핑몰|17612|[링크](https://www.acmicpc.net/problem/17612)|:x:|:x:|:x:|
+
+---
+## 9주차 알고리즘 : Dijkstra Algorithm ( 최단거리 알고리즘, 다익스트라 ) ( 5/25 ~ 6/1 )
+
+- 다익스트라 : 특정한 하나의 정점에서 다른 모든 정점으로 가는 최단 경로를 알려주는 알고리즘
+
+|문제 이름|문제 번호|링크|동훈|도연|윤호|
+|--|--|--|--|--|--|
+|최단경로|1753|[링크](https://www.acmicpc.net/problem/1753)|:x:|:x:|:x:|
+|최소비용 구하기|1916|[링크](https://www.acmicpc.net/problem/1916)|:x:|:x:|:x:|
+|알고스팟|1261|[링크](https://www.acmicpc.net/problem/1261)|:x:|:x:|:x:|
+|녹색 옷 입은 애가 젤다지?|4485|[링크](https://www.acmicpc.net/problem/4485)|:x:|:x:|:x:|
