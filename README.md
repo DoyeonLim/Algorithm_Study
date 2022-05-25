@@ -121,10 +121,10 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|최대 힙|11279|[링크](https://www.acmicpc.net/problem/11279)|:x:|:x:|:x:|
-|최소 힙|1927|[링크](https://www.acmicpc.net/problem/1927)|:x:|:x:|:x:|
-|가운데를 말해요|1655|[링크](https://www.acmicpc.net/problem/1655)|:x:|:x:|:x:|
-|쇼핑몰|17612|[링크](https://www.acmicpc.net/problem/17612)|:x:|:x:|:x:|
+|최대 힙|11279|[링크](https://www.acmicpc.net/problem/11279)|:o:|:o:|:o:|
+|최소 힙|1927|[링크](https://www.acmicpc.net/problem/1927)|:o:|:o:|:o:|
+|가운데를 말해요|1655|[링크](https://www.acmicpc.net/problem/1655)|:o:|:o:|:o:|
+|쇼핑몰|17612|[링크](https://www.acmicpc.net/problem/17612)|:o:|:x:|:o:|
 
 ---
 ## 9주차 알고리즘 : Dijkstra Algorithm ( 최단거리 알고리즘, 다익스트라 ) ( 5/25 ~ 6/1 )
