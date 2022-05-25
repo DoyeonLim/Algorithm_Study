@@ -1,8 +1,7 @@
-﻿// 예제 입출력 정상적 -> 왜 틀렸을까
-
 #include<iostream>
 #include<queue>
 #include<algorithm>
+#include<functional>
 
 using namespace std;
 
@@ -43,7 +42,7 @@ int main() {
 	}
 
 	for (int i = 1; i <= N; i++) {
-		result += i * exitPQ.top().second;
+		result += (long long)i * exitPQ.top().second;
 		exitPQ.pop();
 	}
 
