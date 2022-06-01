@@ -133,7 +133,7 @@ Language <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%
 
 |문제 이름|문제 번호|링크|동훈|도연|윤호|
 |--|--|--|--|--|--|
-|최단경로|1753|[링크](https://www.acmicpc.net/problem/1753)|:o:|:x:|:o:|
-|최소비용 구하기|1916|[링크](https://www.acmicpc.net/problem/1916)|:o:|:x:|:o:|
-|알고스팟|1261|[링크](https://www.acmicpc.net/problem/1261)|:o:|:x:|:o:|
-|녹색 옷 입은 애가 젤다지?|4485|[링크](https://www.acmicpc.net/problem/4485)|:o:|:x:|:o:|
+|최단경로|1753|[링크](https://www.acmicpc.net/problem/1753)|:o:|:o:|:o:|
+|최소비용 구하기|1916|[링크](https://www.acmicpc.net/problem/1916)|:o:|:o:|:o:|
+|알고스팟|1261|[링크](https://www.acmicpc.net/problem/1261)|:o:|:o:|:o:|
+|녹색 옷 입은 애가 젤다지?|4485|[링크](https://www.acmicpc.net/problem/4485)|:o:|:o:|:o:|
